@@ -1,5 +1,7 @@
+import Map from "./maps/QuakesMap";
+
 function App() {
-  return <h1>Hello React!</h1>;
+  return <Map />;
 }
 
 export default App;
