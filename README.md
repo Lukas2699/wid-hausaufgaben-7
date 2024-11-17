@@ -40,4 +40,5 @@ npm install && npm run dev
 - für den Zeitinterval "Past 30 Days" (`month`), können in Kombination mit den Magnitude-Optionen "All" oder "M1.0+" unter Umständed sehr große Daten zusammen kommen. Du könntest für diese Zeitinterval-Option, nur die Magnituden "M2.5+" und größer erlauben. Dies kann man auch in der UI abbilden (z.B. mit `<Button disabled={true}>` kann ein Button deaktiviert werden).
 
 **Abgabe**
-Screenshot:![](/public/Screenshot 2024-11-17 122020.png)
+Screenshot:
+![](/public/Screenshot 2024-11-17 122020.png)
